@@ -6,9 +6,11 @@ import Footer from "./Footer.js";
 export default function App() {
   return (
     <div>
-      <Nav />
-      <Main />
-      <Footer />
+      <div className="rel">
+        <Nav id="nav" />
+        <Main id="main" />
+      </div>
+      <Footer id="footer" />
     </div>
   );
 }
