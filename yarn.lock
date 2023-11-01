@@ -6024,11 +6024,6 @@ launch-editor@^2.6.0:
     picocolors "^1.0.0"
     shell-quote "^1.8.1"
 
-lenis@0.0.2:
-  version "0.0.2"
-  resolved "https://registry.yarnpkg.com/lenis/-/lenis-0.0.2.tgz#85f8c200fb60383570fef79fa2542f752999f763"
-  integrity sha512-lQBkSrQt0VATcXvG5L5yU9Bn3un4fijTfb7g+d3GkkuAzB4b3LtKVUeN0heOgPkl/SzQ/FQDXj+w8eXjfdxSiQ==
-
 leven@^3.1.0:
   version "3.1.0"
   resolved "https://registry.yarnpkg.com/leven/-/leven-3.1.0.tgz#77891de834064cccba82ae7842bb6b14a13ed7f2"
